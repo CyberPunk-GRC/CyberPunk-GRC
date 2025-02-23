@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 My Name is Varun 
 
-<!--
-**CyberPunk-GRC/CyberPunk-GRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 
+
+Hello! I'm a Cyber Analyst and Content Creator passionate about cybersecurity education. My mission is to help individuals and organizations navigate the complexities of the cybersecurity industry. I provide tailored insights and educational content designed for your success.
+
+
+### What You'll Find Here 
+
+Educational Content: Comprehensive guides and tutorials on various cybersecurity topics. Insights and Analysis: In-depth analyses of recent cybersecurity threats, vulnerabilities, and best practices. Tools and Resources: Practical tools and resources to enhance your cybersecurity skills and knowledge.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ...Vulnerability Assesment and IRS Safeguards 
+- 🌱 I’m currently learning ... Certified Information Security Auditor Certification from ISACA  
+- 👯 I’m looking to collaborate on ... Governance, Risk and Compliance projects. I am open to Incidence Response and SOC Projects  
+- 🤔 I’m looking for help with ...  
+- 💬 Ask me about ...GRC, State and Local CyberSpace, Finance and Banking CYber space  
+- 📫 How to reach me: ...check my email - vkuma5@outlook.com  
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Bears eat beets - BEAR,BEETS,BATTLE-STAR-GALACTICA
 -->
