@@ -2,7 +2,7 @@
 
 ### About Me 
 
-Hello! I'm a Cyber Analyst and Content Creator passionate about cybersecurity education. My mission is to help individuals and organizations navigate the complexities of the cybersecurity industry. I provide tailored insights and educational content designed for your success.
+Hello! I'm a Cybersecurity Analyst and Content Creator passionate about cybersecurity education. My mission is to help individuals and organizations navigate the complexities of the cybersecurity industry. I provide tailored insights and educational content designed for your success.
 
 
 ### What You'll Find Here 
