@@ -13,6 +13,6 @@ Educational Content: Comprehensive guides and tutorials on various cybersecurity
 - 🔭 I’m currently working on ...Vulnerability Assesment and IRS Safeguards 
 - 🌱 I’m currently learning ... Certified Information Security Auditor Certification from ISACA  
 - 👯 I’m looking to collaborate on ... Governance, Risk and Compliance projects. I am open to Incidence Response and SOC Projects  
-- 💬 Ask me about ...GRC, State and Local CyberSpace, Finance and Banking CYber space  
+- 💬 Ask me about ...GRC, State and Local CyberSpace, Finance and Banking Cyber space  
 - 📫 How to reach me: ...check my email - vkuma5@outlook.com  
 - ⚡ Fun fact: ...Bears eat beets - BEAR,BEETS,BATTLE-STAR-GALACTICA
