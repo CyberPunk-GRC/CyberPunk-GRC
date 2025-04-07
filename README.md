@@ -16,7 +16,7 @@
 <div>
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlub3dhZDZib3hweHo2amdkbnR1cG9iOTdrZGV6b2t1eno1ZnFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BsrrUcNzNstabBXwCJ/giphy.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Varun Kumar Bhakta </li>
@@ -45,7 +45,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxia2Y0aDB0OG9iN3ZzdmI0MWoyaWYyN3I5OXU5Z21pZW9iazBnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Q2cKrk1PlXwPIdJ9/giphy.gif" align="right">
   </div>
 </div>
 <div>
@@ -58,7 +58,7 @@ I'm a Cybersecurity Analyst and Content Creator passionate about cybersecurity e
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="138.5px">
   </div>
 <br>
 <p align="center"> Email me: vkuma5@outlook.com <br>
@@ -69,7 +69,7 @@ I'm a Cybersecurity Analyst and Content Creator passionate about cybersecurity e
 <div>
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼! ~ </h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9ndDcxa2ttazhwb2xrYjQxbjg0eThsaTFwcW1qZGp0b2ZoNjE3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DpBISBXeaCXDW2QGBN/giphy.gif">
 </div>
 <hr>
 </div>
