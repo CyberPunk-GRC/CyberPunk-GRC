@@ -53,6 +53,16 @@
 I'm a Cybersecurity Analyst and Content Creator passionate about cybersecurity education. My mission is to help individuals and organizations navigate the complexities of the cybersecurity industry. I provide tailored insights and educational content designed for your success. 
    <br>
   **Educational Content**: Comprehensive guides and tutorials on various cybersecurity topics. Insights and Analysis: In-depth analyses of recent cybersecurity threats, vulnerabilities, and best practices. Tools and Resources: Practical tools and resources to enhance your cybersecurity skills and knowledge.  <br>
+
+</p>
+<br>
+
+## Skills 
+
+| Skill                                                |  Associated Project                  |
+|------------------------------------------------------|--------------------------------------|
+| Risk Assessement & Management                        |  <a href="https://github.com/CyberPunk-GRC/Risk-Management-Project">Risk Management</a>|
+| Systems and Organization Controls 2  |  <a href="https://github.com/CyberPunk-GRC/SOC-2-Analysis-Template"> SOC 2 Type 2 Analysis Template</a>|
   
 </p>
 <br>
@@ -76,3 +86,4 @@ I'm a Cybersecurity Analyst and Content Creator passionate about cybersecurity e
 </div>
     </center>
 </body>
+
