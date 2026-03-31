@@ -64,7 +64,7 @@ I'm a Cybersecurity Analyst and Content Creator passionate about cybersecurity e
 | Risk Assessement & Management                        |  <a href="https://github.com/CyberPunk-GRC/Risk-Management-Project">Risk Management</a>|
 | Systems and Organization Controls 2  |  <a href="https://github.com/CyberPunk-GRC/SOC-2-Analysis-Template"> SOC 2 Type 2 Analysis Template</a>|
 | GRC Policies Plans & Workbooks  |  <a href="https://github.com/CyberPunk-GRC/FedRAMP_Policies_Procedure_templates"> FedRAMP Authority To Operate Documentation Templates</a>|
-| Root Cause Analysis(RCA)  |  <a href="https://github.com/CyberPunk-GRC/SOC-2-Analysis-Template"> Root Cause Analysis Work Sample</a>|
+| Root Cause Analysis(RCA)  |  <a href="https://github.com/CyberPunk-GRC/Root-Cause-Analysis---Work-Sample"> Root Cause Analysis Work Sample</a>|
   
 </p>
 <br>
